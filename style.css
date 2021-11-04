@@ -1,0 +1,22 @@
+body {
+  background-image: url(New-Project-26-1.jpg);
+  background-color: black;
+}
+.clock {
+  width: 400px;
+  padding: 80px;
+  background-color: black;
+  padding-right: 100px;
+  border: 10px solid rgb(0, 253, 76);
+  border-radius: 30px;
+  box-shadow: 1px 1px 90px rgb(54, 255, 104);
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  color: #00ff55;
+  font-size: 60px;
+  font-family: Orbitron;
+  letter-spacing: 7px;
+}
